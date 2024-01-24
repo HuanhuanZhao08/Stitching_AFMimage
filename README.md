@@ -21,16 +21,17 @@ The data in this project was generated via ...  Processed data is included in th
 3. ...
 
 ### Support
-The creation of these materials was supported in part by the {INSERT FUNDING AGENCY} under Award No. [{AWARD NUMBER}](https://www.nsf.gov/awardsearch/simpleSearchResult?queryText=delmaestro).
+
+
+The creation of these materials was {primarily/partially) supported by the National Science Foundation Materials Research Science and Engineering Center program through the UT Knoxville Center for Advanced Materials and Manufacturing [DMR-2309083](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309083&HistoricalAwards=false).
 
 <img width="400px" src="https://new.nsf.gov/themes/custom/nsf_theme/components/images/logo/logo-desktop.svg">
-<img width="400px" src="https://science.osti.gov/assets/img/doe-logos/logo.png">
 
 
 ### Figures
 
 #### Figure 01: Figure Name
-<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/figure01.svg" width="400px">
+<img src="https://github.com/CAMM-UTK/papers-code-template/blob/main/figures/figure01.svg" width="400px">
 
 This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
