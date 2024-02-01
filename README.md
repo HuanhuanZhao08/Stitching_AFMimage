@@ -25,7 +25,7 @@ The data in this project was generated via ...  Processed data is included in th
 
 The creation of these materials was <mark>primarily/partially</mark> supported by the National Science Foundation Materials Research Science and Engineering Center program through the UT Knoxville Center for Advanced Materials and Manufacturing [DMR-2309083](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2309083&HistoricalAwards=false).
 
-<img width="400px" src="https://new.nsf.gov/themes/custom/nsf_theme/components/images/logo/logo-desktop.svg">
+<img width="400px" src="https://mrsec.org/sites/default/files/MRSEC%20logo_clear%20background.png">
 
 
 ### Figures
