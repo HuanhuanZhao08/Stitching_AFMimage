@@ -14,7 +14,7 @@ Microscopy is an essential tool in scientific research, enabling the visualizati
 This repository includes links, code, scripts, and data to generate the figures in a paper.
 
 ### Data
-The samples used in this study correspond to **Pantoea sp. YR343**. The dataset was collected from AFM images, acquired using the DriveAFM system from Nanosurf, as described in [1]. More information on the dataset is provided in the main paper and notebook. The raw dataset is provided in **Data** folder here https://github.com/arpanbiswas52/Stitching_AFMimage/tree/main/data. 
+The samples used in this study correspond to **Pantoea sp. YR343**. The dataset was collected from AFM images, acquired using the DriveAFM system from Nanosurf, as described in [1]. More information on the dataset is provided in the main paper and notebook. The raw dataset is provided in **Data** folder [here](https://github.com/arpanbiswas52/Stitching_AFMimage/tree/main/data). 
 
 ### Requirement
 A minimal environment to execute these notebooks can be installed via `pip install -r requirements.txt`
