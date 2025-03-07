@@ -3,7 +3,8 @@
 
 # A bi-channel Aided Stitching of Atom Force Microscopy Images 
 
-**Huanhuan Zhao**, Ruben Millan Solsona, Spenser R. Brown, Marti Checa, Liam Collins, **Arpan Biswas** 
+**Huanhuan Zhao**, Ruben Millan Solsona, Marti Checa, Spenser R. Brown, Jennifer L. Morrell-Falvey, Liam Collins, **Arpan Biswas** 
+
 
 [arXiv:XXXX.YYYYY](https://arxiv.org/abs/XXXX.YYYYY)
 
