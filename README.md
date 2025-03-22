@@ -1,12 +1,14 @@
-[![Paper](https://img.shields.io/badge/paper-arXiv%3AXXXX.YYYYY-B31B1B.svg)](https://arxiv.org/abs/XXXX.YYYYY)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://zenodo.org/badge/latestdoi/XXXXYYYYY)
+[![Paper](https://img.shields.io/badge/paper-arXiv%3A2503.08735-B31B1B.svg)](https://arxiv.org/abs/2503.08735)
+
 
 # A bi-channel Aided Stitching of Atom Force Microscopy Images 
 
-**Huanhuan Zhao**, Ruben Millan Solsona, Marti Checa, Spenser R. Brown, Jennifer L. Morrell-Falvey, Liam Collins, **Arpan Biswas** 
+**Huanhuan Zhao**, Ruben Millan-Solsona, Marti Checa, Spenser R. Brown, Jennifer L. Morrell-Falvey, Liam Collins, **Arpan Biswas** 
 
 
-[arXiv:XXXX.YYYYY](https://arxiv.org/abs/XXXX.YYYYY)
+ 	
+https://doi.org/10.48550/arXiv.2503.08735
+
 
 ### Abstract
 Microscopy is an essential tool in scientific research, enabling the visualization of structures at micro- and nanoscale resolutions. However, the field of microscopy often encounters limitations in field-of-view (FOV), restricting the amount of sample that can be imaged in a single capture. To overcome this limitation, image stitching techniques have been developed to seamlessly merge multiple overlapping images into a single, high-resolution composite. The images collected from microscope need to be optimally stitched before accurate physical information can be extracted from post analysis. However, the existing stitching tools either struggle to stitch images together when the microscopy images are feature sparse or cannot address all the transformations of images when performing image stitching. To address, in this paper, we propose a two-channel aided feature-based image stitching method and showcased on Atomic Force Microscopy (AFM) generated biofilm images as experimental data. The topographical channel image of AFM data captures the morphological details of the sample, and a stitched topographical image is desired for researchers. We utilize the amplitude channel of AFM data to maximize the matching features and to estimate the position of the original topographical images. We see the proposed two-channel aided stitching method outperforms the traditional direct stitching approach in AFM topographical image stitching task. Furthermore, we found that the differentiation of the topographical images along the x-axis provides similar feature information to the amplitude channel image, which generalizes our approach when the amplitude images are not available. Here we demonstrated the application on AFM, but similar could be employed of optical microscopy with brightfield and fluoresce channels. We believe this proposed workflow can serve as a valuable augmentation strategy for microscopy image stitching tasks and will benefit the experimentalist to avoid erroneous analysis and discovery due to incorrect stitching.
